@@ -67,7 +67,6 @@ class MainActivity : AppCompatActivity() {
     fun add(num: Double, num2: Double) {
             var add = num + num2
             tvanswer.text = add.toString()
-
         }
 
 
